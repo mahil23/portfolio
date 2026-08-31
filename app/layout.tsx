@@ -25,6 +25,7 @@ export const metadata: Metadata = {
     title,
     description,
     type: "website",
+    url: "https://portfolio-sigma-jade-76.vercel.app",
   },
   twitter: {
     card: "summary_large_image",
